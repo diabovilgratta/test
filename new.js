@@ -1,0 +1,1 @@
+const a={};a['!']=[...`Hello World!`].map(i=>a[i]=i);console.log(a['!'][0]);
